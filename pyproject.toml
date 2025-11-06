@@ -1,0 +1,9 @@
+[project]
+name = "stamp2img"
+version = "0.1.0"
+description = "指定したディレクトリにある画像にスタンプ画像を合成します"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pillow>=10.0.0",
+]
